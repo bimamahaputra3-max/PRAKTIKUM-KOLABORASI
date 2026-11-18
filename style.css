@@ -1,0 +1,8 @@
+/* Styling untuk kartu profil */
+.kartu-profil {
+    width: 300px;                 /* Lebar 300px */
+    background-color: lightgray;  /* Warna latar belakang abu-abu muda */
+    padding: 20px;                /* Ruang dalam (padding) 20px */
+    border: solid 2px blue;       /* Garis tepi solid 2px warna biru */
+    margin: 20px auto;            /* Supaya posisinya rapi di tengah */
+}
